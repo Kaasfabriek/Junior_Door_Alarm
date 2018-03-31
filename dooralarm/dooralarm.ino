@@ -1,4 +1,6 @@
-/*
+/*WARNING: THE ALARM LIKES TO TRIGGER AT RANDOM TIMES IF YOU SLAM THE DOOR.
+ * 
+ * 
  * Writen by Quinten Oortgijsen
  * Alarm that goes of if someone forgets to close the door
  * 

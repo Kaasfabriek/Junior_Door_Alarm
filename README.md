@@ -8,3 +8,5 @@ Components you need for this project:
 - 1 Pushbutton (NO)
 - 1 Piezo.
 - Some kind of read switch (we used an end stop switch but an magnet read switch would work way better.)
+
+You can find the pinout in the arduino code.
